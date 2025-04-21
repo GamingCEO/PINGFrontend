@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PINGFrontend/FileContentIndex
+/.vs/PINGFrontend/v17
+/.vs/PINGFrontend/config
+*.sqlite
+*.json
+*.sqlite-journal
